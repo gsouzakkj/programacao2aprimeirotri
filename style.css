@@ -8,17 +8,7 @@ body{font-family: 'Sedgwick Ave Display', cursive;
 
 }
     .cabecalho-imagem{
-        width: 10%;
- }
-    
- .cabecalho-lista-item {
-    display: inline-block;
-    margin:10px 50px;
-
- }
-
- .vontz-div-conteudo{
-    width: 35%;
- }
-
+        …    width: 40%;
+         }
+        
  
