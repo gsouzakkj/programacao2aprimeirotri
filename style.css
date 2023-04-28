@@ -5,7 +5,6 @@
 
 }
 body{font-family: 'Sedgwick Ave Display', cursive;
-    justify-content: center;
 
 }
     .cabecalho-imagem{
@@ -16,6 +15,10 @@ body{font-family: 'Sedgwick Ave Display', cursive;
     display: inline-block;
     margin:10px 50px;
 
+ }
+
+ .vontz-div-conteudo{
+    width: 35%;
  }
 
  
